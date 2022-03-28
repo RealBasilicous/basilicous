@@ -20,6 +20,8 @@ BLACK -> #252120
 .brown { color: var(--brown); }
 .green { color: var(--green); }
 .black { color: var(--black); }
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
 
 body {
 	background-color: var(--black);
